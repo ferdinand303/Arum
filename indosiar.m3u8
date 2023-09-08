@@ -8,4 +8,4 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2400567,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2400567,RESOLUTION=1920x540,FRAME-RATE=25.000,AUDIO="audio1"
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
