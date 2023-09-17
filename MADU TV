@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1628768,RESOLUTION=720x576,CODECS="avc1.64001f,mp4a.40.2"
+https://v6.siar.us:443/madutv/hd720/chunks.m3u8?nimblesessionid=36805171
