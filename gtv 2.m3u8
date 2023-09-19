@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=0691654,RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO="audio1"
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157578
+##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683121&extension=m3u8&play_token=xdbt7BgLik
+##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683121&extension=ts&play_token=RmFK3j6FUm
+##http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
